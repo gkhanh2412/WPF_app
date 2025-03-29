@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WPF_app\\Method2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C156AB8-3FE4-44D5-A1D5-AE35665015A8}|Method2\\Method2.csproj|d:\\wpf_app\\method2\\method2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C156AB8-3FE4-44D5-A1D5-AE35665015A8}|Method2\\Method2.csproj|solutionrelative:method2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C156AB8-3FE4-44D5-A1D5-AE35665015A8}|Method2\\Method2.csproj|d:\\wpf_app\\method2\\method2\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C156AB8-3FE4-44D5-A1D5-AE35665015A8}|Method2\\Method2.csproj|solutionrelative:method2\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tinhtoan.cs",
+              "DocumentMoniker": "D:\\WPF_app\\Method2\\Method2\\Tinhtoan.cs",
+              "RelativeDocumentMoniker": "Method2\\Tinhtoan.cs",
+              "ToolTip": "D:\\WPF_app\\Method2\\Method2\\Tinhtoan.cs",
+              "RelativeToolTip": "Method2\\Tinhtoan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:11:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WPF_app\\Method2\\Method2\\Program.cs",
+              "RelativeDocumentMoniker": "Method2\\Program.cs",
+              "ToolTip": "D:\\WPF_app\\Method2\\Method2\\Program.cs*",
+              "RelativeToolTip": "Method2\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:41:26.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

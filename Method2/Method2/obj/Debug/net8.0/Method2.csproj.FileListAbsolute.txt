@@ -1,0 +1,15 @@
+D:\WPF_app\Method2\Method2\bin\Debug\net8.0\Method2.exe
+D:\WPF_app\Method2\Method2\bin\Debug\net8.0\Method2.deps.json
+D:\WPF_app\Method2\Method2\bin\Debug\net8.0\Method2.runtimeconfig.json
+D:\WPF_app\Method2\Method2\bin\Debug\net8.0\Method2.dll
+D:\WPF_app\Method2\Method2\bin\Debug\net8.0\Method2.pdb
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.AssemblyInfoInputs.cache
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.AssemblyInfo.cs
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.csproj.CoreCompileInputs.cache
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.sourcelink.json
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.dll
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\refint\Method2.dll
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.pdb
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\Method2.genruntimeconfig.cache
+D:\WPF_app\Method2\Method2\obj\Debug\net8.0\ref\Method2.dll

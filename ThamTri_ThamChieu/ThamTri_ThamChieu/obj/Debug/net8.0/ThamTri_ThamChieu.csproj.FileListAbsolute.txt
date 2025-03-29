@@ -1,0 +1,15 @@
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.AssemblyInfoInputs.cache
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.AssemblyInfo.cs
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.csproj.CoreCompileInputs.cache
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.sourcelink.json
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\bin\Debug\net8.0\ThamTri_ThamChieu.exe
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\bin\Debug\net8.0\ThamTri_ThamChieu.deps.json
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\bin\Debug\net8.0\ThamTri_ThamChieu.runtimeconfig.json
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\bin\Debug\net8.0\ThamTri_ThamChieu.dll
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\bin\Debug\net8.0\ThamTri_ThamChieu.pdb
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.dll
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\refint\ThamTri_ThamChieu.dll
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.pdb
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ThamTri_ThamChieu.genruntimeconfig.cache
+D:\WPF_app\ThamTri_ThamChieu\ThamTri_ThamChieu\obj\Debug\net8.0\ref\ThamTri_ThamChieu.dll

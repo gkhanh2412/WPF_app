@@ -1,0 +1,15 @@
+D:\WPF_app\Method\Method\bin\Debug\net8.0\Method.exe
+D:\WPF_app\Method\Method\bin\Debug\net8.0\Method.deps.json
+D:\WPF_app\Method\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+D:\WPF_app\Method\Method\bin\Debug\net8.0\Method.dll
+D:\WPF_app\Method\Method\bin\Debug\net8.0\Method.pdb
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.sourcelink.json
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.dll
+D:\WPF_app\Method\Method\obj\Debug\net8.0\refint\Method.dll
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.pdb
+D:\WPF_app\Method\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+D:\WPF_app\Method\Method\obj\Debug\net8.0\ref\Method.dll
